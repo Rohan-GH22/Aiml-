@@ -1,11 +1,31 @@
-Match Number,Team 1 Runs,Team 2 Runs,Venue,Date,Winner,Toss Winner,Toss Decision,Highest Run Scorer,Highest Wicket Taker
-1,180,170,Wankhede,2020-03-29,Mumbai,Mumbai,Bat,Rohit Sharma,Jasprit Bumrah
-2,160,156,Eden Gardens,2020-03-30,Delhi,Delhi,Field,Shikhar Dhawan,Kagiso Rabada
-3,175,172,Sawai Mansingh,2020-03-31,Bangalore,Rajasthan,Field,AB de Villiers,Yuzvendra Chahal 
-4,200,185,Rajiv Gandhi,2020-04-01,Hyderabad,Punjab,Bat,David Warner,Bhuvneshwar Kumar
-5,160,155,Chepauk,2020-04-02,Kolkata,Chennai,Field,Andre Russell,Sunil Narine
-6,190,180,Wankhede,2020-04-03,Mumbai,Mumbai,Bat,Quinton de Kock,Trent Boult
-7,170,168,Eden Gardens,2020-04-04,Kolkata,Kolkata,Bat,Shubman Gill , Varun Chakravarthy
-8,185,178,Sawai Mansingh,2020-04-05,Rajasthan,Rajasthan,Field,Ben Stokes,Jofra Archer
-9,210,195,Rajiv Gandhi,2020-04-06,Hyderabad,Punjab,Field,Jonny Bairstow,Rashid Khan
-10,155,150,Chepauk,2020-04-07,Chennai,Chennai,Field,Faf Du Plessis,Deepak Chahar
+Player Name,Matches Played,Runs Scored,Batting Average,Bowling Average,Wickets Taken
+Player 1,50,1800,36.00,42.50,25
+Player 2,45,2200,48.89,32.10,30
+Player 3,55,1500,27.27,28.75,20
+Player 4,40,2800,70.00,21.40,40
+Player 5,60,3200,53.33,38.20,35
+Player 6,35,1100,31.43,35.75,15
+Player 7,42,1950,46.43,29.80,28
+Player 8,48,2400,50.00,27.60,32
+Player 9,52,1800,40.00,33.90,22
+Player 10,38,1300,34.21,36.50,18
+Player 11,47,2100,44.68,31.75,26
+Player 12,50,2800,56.00,25.80,45
+Player 13,55,3200,58.18,29.90,50
+Player 14,43,1400,32.56,34.20,20
+Player 15,51,2300,45.10,26.90,38
+Player 16,36,1800,50.00,29.60,25
+Player 17,58,2700,46.55,30.50,42
+Player 18,44,1900,43.18,32.40,35
+Player 19,49,2100,42.86,28.75,30
+Player 20,39,1500,38.46,31.00,20
+Player 21,53,2600,49.06,27.80,40
+Player 22,41,1800,43.90,35.20,25
+Player 23,57,3000,52.63,29.40,48
+Player 24,34,1200,35.29,33.75,15
+Player 25,46,1900,41.30,31.20,25
+Player 26,50,2400,48.00,29.80,30
+Player 27,54,2800,51.85,27.60,45
+Player 28,37,1600,43.24,30.70,22
+Player 29,59,3200,54.24,28.90,50
+Player 30,40,2000,50.00,25.00,30
